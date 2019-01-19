@@ -17,6 +17,10 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - feedjira
 
 # Content
 contact: https://juuh42dias.gitlab.io
+
+collections:
+  - posts
