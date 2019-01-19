@@ -2,7 +2,7 @@ title:             Blog.from('Juliana')
 email:             juuh42dias@gmail.com
 description:       Artesã de software, transfeminista, pseudo escritora, aspirante a fotógrafa, comedora de pamonha e movida a café ☕💎
 author:            Juliana Dias Santos e Silva
-baseurl:           "/"
+baseurl:           "/blog"
 url:               "https://juuh42dias-blog.github.io"
 
 # Social Profiles
